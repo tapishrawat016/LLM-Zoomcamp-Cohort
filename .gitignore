@@ -1,0 +1,6 @@
+.env
+.venv
+faq.db*
+*.db
+*.db-shm
+*.db-wal
